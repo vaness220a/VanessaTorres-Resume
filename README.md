@@ -1,6 +1,3 @@
-
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+website name: Vanessa Torres - Sales associate 
+[!desc](img/ScreenshotWebsite.jpg)
+https://668b8b7d382444c585711c0d541499b4.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/index.html
